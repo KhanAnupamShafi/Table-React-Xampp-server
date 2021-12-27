@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### First make sure ‘api’ folder is located inside ‘htdocs’ folder. ‘api’ folder provided with inside src folder where you can find all the api data.
+#React Simple Table Generator
 
-### Unzip the file provided with the name ‘khan-anupam-shafi.zip’ where all the project files are located
+### First make sure ‘api’ folder is located inside ‘htdocs’ folder. ‘api’ folder provided with inside src folder where you can find all the api data.
 
 ## Available Scripts
 
